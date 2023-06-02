@@ -1,1 +1,1 @@
-hello, this is the repository for MPIN project.
+hello, this is the repository for MPIN project. The more friendly README.md will be updated soon!
