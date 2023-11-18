@@ -5,11 +5,6 @@
 This is the repository of MPIN project which consists of supplementary material and implementation details.
 
 
-
-# Supplementary Material
-The results of supplementary experiments are available in [Supplementary Material](https://github.com/XLI-2020/MPIN/blob/master/Supplementary_material.pdf). Please download it to local for better readability.
-
-
 # Implementation Details 
 
 ### Requirements
