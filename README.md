@@ -12,8 +12,8 @@ This is the repository of MPIN project which consists of supplementary material 
 - Numpy 1.19.2
 - Pandas 1.1.3
 - Sklearn 0.24.1
-- tsdb 
-- pypots
+- tsdb 0.0.7
+- pypots 0.0.9
 - torch_geometric
 
 You may use " pip3 install -r requirements.txt" to install the above libraries.
